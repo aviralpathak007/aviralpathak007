@@ -5,10 +5,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I%27m%20Aviral%20Pathak&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20Open%20Source%20Learner&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I%27m%20Aviral%20Pathak&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20ML%20Engineer%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20Open%20Source%20Learner&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://www.aviralpathak.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&height=50&lines=AI+Engineer+%26+Cross-Platform+App+Developer;Founder%27s+Office+%28Tech+Lead%29+%40+Vritam+Technologies;Open+to+Internships+%F0%9F%8E%93+%7C+Open+Source+%F0%9F%8C%8D;ML+%7C+Flutter+%7C+Data+Science;Logic+in+the+head%2C+poetry+in+the+heart" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&height=50&lines=AI+Engineer+and+Cross-Platform+App+Developer;Founder%27s+Office+%28Tech+Lead%29+%40+Vritam+Technologies;Open+to+Internships+%F0%9F%8E%93+%7C+Open+Source+%F0%9F%8C%8D;ML+%7C+Flutter+%7C+Data+Science;Logic+in+the+head%2C+poetry+in+the+heart" alt="Typing SVG" />
 </a>
 
 <br/>
