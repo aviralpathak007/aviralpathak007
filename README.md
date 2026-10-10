@@ -266,10 +266,6 @@ I'm actively looking to make my first contributions to other people's projects. 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=aviralpathak007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralpathak007&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aviralpathak007&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
-
 </div>
 
 ---
