@@ -86,32 +86,50 @@ I believe the best developers are also good storytellers. When I'm not debugging
 
 <div align="center">
 
+<sub>🖱 Hover over any icon to see its name</sub>
+
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,dart,js,html,css&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" title="Python" />
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++" title="C++" />
+<img src="https://skillicons.dev/icons?i=dart&theme=dark" width="48" height="48" alt="Dart" title="Dart" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5" title="HTML5" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS3" title="CSS3" />
 
 **ML & Data Science**
 
-<img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas&theme=dark" alt="ml" />
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch" title="PyTorch" />
+<img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="48" height="48" alt="NumPy" title="NumPy" />
+<img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="48" height="48" alt="Pandas" title="Pandas" />
 <br/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white" alt="MediaPipe" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Seaborn-4c72b0?style=flat" alt="Seaborn" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn" title="scikit-learn" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" title="OpenCV" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white" alt="MediaPipe" title="MediaPipe" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat" alt="Matplotlib" title="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-4c72b0?style=flat" alt="Seaborn" title="Seaborn" />
 
 **Mobile & Web**
 
-<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,bootstrap&theme=dark" alt="frameworks" />
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48" height="48" alt="Flutter" title="Flutter" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" title="React" />
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js" title="Next.js" />
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="Bootstrap" title="Bootstrap" />
 <br/>
-<img src="https://img.shields.io/badge/Provider-02569B?style=flat&logo=flutter&logoColor=white" alt="Provider" />
-<img src="https://img.shields.io/badge/Riverpod-00B0FF?style=flat&logo=flutter&logoColor=white" alt="Riverpod" />
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat" alt="REST" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" alt="Socket.io" />
+<img src="https://img.shields.io/badge/Provider-02569B?style=flat&logo=flutter&logoColor=white" alt="Provider" title="Provider (Flutter state management)" />
+<img src="https://img.shields.io/badge/Riverpod-00B0FF?style=flat&logo=flutter&logoColor=white" alt="Riverpod" title="Riverpod (Flutter state management)" />
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat" alt="REST APIs" title="REST APIs" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" alt="Socket.io" title="Socket.io" />
 
 **Data, Cloud & Tools**
 
-<img src="https://skillicons.dev/icons?i=postgres,aws,git,github,androidstudio,figma&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS" title="AWS" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" title="Git" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" title="GitHub" />
+<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" height="48" alt="Android Studio" title="Android Studio" />
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" title="Figma" />
 
 </div>
 
