@@ -277,17 +277,6 @@ I'm actively looking to make my first contributions to other people's projects. 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aviralpathak007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralpathak007&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
